@@ -8,3 +8,9 @@ This application use the spark streaming client with kafka and spark streaming c
 
 ## Note
 There will be two branches for this repo one will be main for application1 and the other one will be for the application prod.
+
+## Video or Presentation links
+Watch the first link first then the second.
+
+https://mum0-my.sharepoint.com/personal/hali_miu_edu/_layouts/15/stream.aspx?id=%2Fpersonal%2Fhali%5Fmiu%5Fedu%2FDocuments%2Fbandicam%202023%2D09%2D30%2019%2D37%2D39%2D797%2Emp4&referrer=OfficeHome%2EWeb&referrerScenario=UPLOAD
+https://mum0-my.sharepoint.com/personal/hali_miu_edu/_layouts/15/stream.aspx?id=%2Fpersonal%2Fhali%5Fmiu%5Fedu%2FDocuments%2Fbandicam%202023%2D09%2D30%2019%2D57%2D52%2D995%2Emp4&referrer=OfficeHome%2EWeb&referrerScenario=UPLOAD
